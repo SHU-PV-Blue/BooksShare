@@ -1,4 +1,4 @@
-# :book: :book: :book: :book: :book: 书籍分享:book: :book: :book: :book: :book: 
+# :book: 书籍分享:book:
 
 分享各自的书籍，为了公平，互相借书仅限参与分享的同学。
 
