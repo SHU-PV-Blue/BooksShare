@@ -29,9 +29,9 @@
 ---
 # 方朝增区
 
-1. 深入理解C#
-2. CLR Via C#
-3. 精通Asp.Net MVC4
+1. 深入理解C#（第3版） 
+2. CLR via C#（第4版）
+3. 精通ASP.NET MVC 4
 
 ---
 # 王舒区
