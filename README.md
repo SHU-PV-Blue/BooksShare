@@ -23,6 +23,7 @@
 0. C++ Primer(中文版)(第5版)
 0. C++ Primer(英文版)(第5版)
 0. 轻量级Java EE企业应用实战(第4版):Struts 2+Spring 4+Hibernate整合开发
+0. C#高级编程(第9版):C# 5.0 & .NET 4.5.1
 
 ---
 # 杨永华区
